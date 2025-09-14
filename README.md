@@ -31,8 +31,15 @@ It extracts job requirements from company websites, matches them with your **ski
 ## ⚙️ Installation
 
 ### 1. Clone the repository
-```bash
+bash
 git clone https://github.com/sarthakpande108/Cold-Email-using-GenAI.git
 cd Cold-Email-using-GenAI
+
+
+### python -m venv venv
+# Activate
+source venv/bin/activate   # Linux/Mac
+venv\Scripts\activate      # Windows
+
 
 
